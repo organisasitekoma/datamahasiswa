@@ -2,3 +2,8 @@ nama  : wahyu priawansyah
 nim :1829140006
 kelas : tekom A
 matkul : struktur data
+
+Nama : Muhammad Arhamul Ihza M
+Nim : 1829141015
+Kelas : Tekom A
+Mata Kuliah : Struktur Data
