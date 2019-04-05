@@ -1,0 +1,4 @@
+nama  : wahyu priawansyah
+nim :1829140006
+kelas : tekom A
+matkul : struktur data
