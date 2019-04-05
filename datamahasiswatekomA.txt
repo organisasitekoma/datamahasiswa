@@ -7,3 +7,8 @@ Nama : Muhammad Arhamul Ihza M
 Nim : 1829141015
 Kelas : Tekom A
 Mata Kuliah : Struktur Data
+
+nama: ardiantekom
+nim: 1829140003
+kelas: tekom A
+mata kuliah: struktur data
