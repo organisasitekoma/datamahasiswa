@@ -24,7 +24,7 @@ def main():
 	
 	waktu = tugasgeometri.menghitungwaktutempuh(s,v )
 	
-	print("\nWaktu yang di tempuh adalah",waktu, "menit" )
+	print("\nWaktu yang di tempuh adalah",waktu, "jam" )
 	
 	
 if __name__ =="__main__":
